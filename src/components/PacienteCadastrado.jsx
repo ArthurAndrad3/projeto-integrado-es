@@ -13,3 +13,4 @@ const PacienteCadastrado = ({ nome, dataCadastro }) => {
 };
 
 export default PacienteCadastrado;
+//oi
